@@ -1,0 +1,15 @@
+target/
+
+bin/
+
+.settings/
+
+# Ignorar los class
+*.class
+
+# Ignorar los Log
+*.log
+
+.classpath
+
+.project

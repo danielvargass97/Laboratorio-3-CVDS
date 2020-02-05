@@ -1,5 +1,6 @@
 # Laboratorio-3-CVDS
 ## Ejercicio "Registraduria"
+## Daniel Vargas - Esteban Bernal
 ### Ejecutar las pruebas
 * Para correr las pruebas utilice
      * $ mvn package
